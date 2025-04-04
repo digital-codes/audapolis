@@ -24,7 +24,7 @@ scipy = "^1.7.3"
 webrtcvad = "^2.0.10"
 scikit-learn = "^1.0.1"
 pydiar = "^0.0.6"
-setuptools = "<60.0.0"
+setuptools = "<71.0.0"
 
 [tool.poetry.dev-dependencies]
 isort = "^5.9.3"
